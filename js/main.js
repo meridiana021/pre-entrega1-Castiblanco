@@ -1,7 +1,7 @@
 // Registro de un jugador para ☄️Teyuna Landing☄️ (Juego RPG). En este simulador se creará el perfil del jugador y se hará su registro. Además de adquirir los elementos con los que iniciará el juego
 //CREACIÓN DEL PERFIL DE JUEGO
 //1. Elegir nombre de Usuario
-//2. Elegir Género y raza dentro del universo
+//2. Elegir raza dentro del universo
 //3. Dar un saludo de bienvenida
 //ARMAR EL KIT DE INICIO
 //1. Se muestra la cantidad de créditos que tiene el jugador
